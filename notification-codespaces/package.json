@@ -28,7 +28,7 @@
     "@microsoft/agents-hosting-extensions-teams": "^1.4.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7",
+    "nodemon": "^3.1.14",
     "env-cmd": "^10.1.0"
   }
 }

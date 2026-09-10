@@ -22,7 +22,7 @@
     "@azure/identity": "^4.13.0",
     "@microsoft/teams.ai": "^2.0.0",
     "@microsoft/teams.api": "^2.0.0",
-    "@microsoft/teams.apps": "^2.0.0",
+    "@microsoft/teams.apps": "^2.0.16",
     "@microsoft/teams.cards": "^2.0.0",
     "@microsoft/teams.common": "^2.0.0",
     "@microsoft/teams.graph": "^2.0.0",
